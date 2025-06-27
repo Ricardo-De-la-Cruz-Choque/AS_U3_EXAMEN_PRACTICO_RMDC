@@ -1,0 +1,7 @@
+![Anexo A](evidencias/anexo_A_vagrant_status.png)
+![Anexo B](evidencias/anexo_B_wordpress_acceso.png)
+![Anexo C](evidencias/anexo_C_puerto_sin_autenticacion.png)
+![Anexo D.1](evidencias/anexo_D_1_red_privada_sin_autenticacion.png)
+![Anexo D.2](evidencias/anexo_D_2_red_privada_sin_autenticacion.png)
+![Anexo E](evidencias/anexo_E_credenciales_env_no_seguro.png)
+![Anexo G](evidencias/anexo_G_logs_existentes.png)
